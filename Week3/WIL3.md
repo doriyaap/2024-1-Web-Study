@@ -29,7 +29,7 @@
 - 웹사이트로 다운받아 프로그램의 일부를 빠르게 고친다
 
 <사용사례>
- ![alt text](PATCH.png)
+![alt text](PATCH.png)
 5. DELETE
 - 지정된 리소스를 삭제
 - Body값과 Content-type값이 비워져 있다
